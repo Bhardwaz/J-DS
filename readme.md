@@ -13,4 +13,4 @@
 | [3 Sum](./DS/2-Pointers/Medium/3Sum.js)   | 🟡 Medium   |
 | [3 Sum closet](./DS/2-Pointers/Medium/3SumCloset.js)   | 🟡 Medium   |
 | [Container with most water](./DS/2-Pointers/Medium/containerWithMostWater.js)   | 🟡 Medium   |
-| [Find Element in Rotated Array](./problems/binary_search/rotated_array.md) | 🔴 Hard |
+| [Trapping Rain Water](./DS/2-Pointers/Hard/trappingRainWater.js) | 🔴 Hard |
