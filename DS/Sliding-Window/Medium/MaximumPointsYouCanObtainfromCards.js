@@ -1,3 +1,5 @@
+// easy pattern to get a taste of two pointers and sliding window problem
+
 var maxScore = function(cardPoints, k) {
     let n = cardPoints.length;
     let sum = 0;

@@ -1,3 +1,7 @@
+// average two pointers and sliding window problem pattern
+
+// smartly depicted use of right and left pointer - how to move and play with that 
+
 // brute force 
 var lengthOfLongestSubstring = function(s) {
     let maxLength = 0;

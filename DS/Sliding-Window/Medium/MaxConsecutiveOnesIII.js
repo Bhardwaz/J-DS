@@ -1,3 +1,4 @@
+// a nice variation of pattern
 
 // just keep increasing end pointer until we dont hit limit k
 // as soon as we hit limit of k, immediately assign -> end pointer - start pointer + 1
