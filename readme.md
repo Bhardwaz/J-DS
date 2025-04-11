@@ -1,4 +1,6 @@
 
+https://www.blog.codeinmotion.io/p/leetcode-patterns
+
 ### 🧠 Pattern: Two Pointers
 
 | Problem Name                              | Difficulty |
